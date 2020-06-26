@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jacun/Documents/Unsa/2020-A/PS-L/Lab07/Ejercicio1/Ejercicio1.cpp
+Ejercicio1.h
+C:/Users/jacun/Documents/Unsa/2020-A/PS-L/Lab07/Ejercicio1/Ejercicio1.h
+
+C:/Users/jacun/Documents/Unsa/2020-A/PS-L/Lab07/Ejercicio1/Ejercicio1.h
+
+C:/Users/jacun/Documents/Unsa/2020-A/PS-L/Lab07/Ejercicio1/main.cpp
+iostream
+-
+cstdlib
+-
+exception
+-
+Ejercicio1.h
+C:/Users/jacun/Documents/Unsa/2020-A/PS-L/Lab07/Ejercicio1/Ejercicio1.h
+
