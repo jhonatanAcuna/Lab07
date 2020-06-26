@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jacun/Documents/Unsa/2020-A/PS-L/Lab07/Ejercicio4/Ejercicio4.cpp
+iostream
+-
+math.h
+-
+exception
+-
+Ejercicio4.h
+C:/Users/jacun/Documents/Unsa/2020-A/PS-L/Lab07/Ejercicio4/Ejercicio4.h
+
+C:/Users/jacun/Documents/Unsa/2020-A/PS-L/Lab07/Ejercicio4/Ejercicio4.h
+
